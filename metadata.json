@@ -1,0 +1,5 @@
+{
+  "name": "Eurojackpot Predictor Pro",
+  "description": "An application that analyzes 20 years of historical Eurojackpot data to provide statistical insights and predict numbers with the highest probability of appearing in the current season, based on mathematical and seasonal patterns.",
+  "requestFramePermissions": []
+}
